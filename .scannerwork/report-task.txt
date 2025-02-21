@@ -1,0 +1,6 @@
+projectKey=sample-nodejs-project
+serverUrl=http://3.25.121.105:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://3.25.121.105:9000/dashboard?id=sample-nodejs-project
+ceTaskId=1d47b70f-2ad7-4e4a-892a-6914a85f1e95
+ceTaskUrl=http://3.25.121.105:9000/api/ce/task?id=1d47b70f-2ad7-4e4a-892a-6914a85f1e95
